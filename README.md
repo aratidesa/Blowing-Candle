@@ -1,4 +1,5 @@
 # Blowing-Candle
-Blowing Candle Animation. Tools used are CSS,HTML
+Blowing Candle Animation. Technology Stack: CSS,HTML
 
-![candle](https://user-images.githubusercontent.com/99597655/174036603-35672c3d-d0a9-44fe-82c5-88a0ff72ee8e.gif)
+![candle](https://user-images.githubusercontent.com/99597655/174250095-620880b8-dcf0-49b4-8321-9572cfd2b538.gif)
+
